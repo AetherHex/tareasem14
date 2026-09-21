@@ -69,8 +69,3 @@ python main.py
 * **Usuario:** `admin`
 * **Contraseña:** `123`
 
-
-
-```
-
-```
