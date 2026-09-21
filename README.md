@@ -25,7 +25,7 @@ restaurante_app/
 │   └── main_view.py
 ├── main.py
 └── README.md
-
+```
 
 ## Componentes y Contenedores Utilizados
 
