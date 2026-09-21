@@ -1,4 +1,3 @@
-```markdown
 # Restaurante App - Gestión de Productos y Usuarios
 
 ## Propósito de la Semana 14
@@ -27,7 +26,6 @@ restaurante_app/
 ├── main.py
 └── README.md
 
-```
 
 ## Componentes y Contenedores Utilizados
 
